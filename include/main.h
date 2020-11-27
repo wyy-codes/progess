@@ -1,10 +1,11 @@
-#ifndef
+#ifndef __MAIN__H
 #define __main__H
 #include <stdio.h>
+#include <string.h>
 typedef struct Studet
 {
 	int num;
-	string name;
+	bool name;
 	int age;
 }STU;
 
