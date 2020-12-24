@@ -10,4 +10,7 @@ typedef struct Studet
 }STU;
 
 
+
+hello
+
 #endif
